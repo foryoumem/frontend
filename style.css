@@ -1,0 +1,17 @@
+.calculator {
+    width: 150px;
+    border: 2px solid #df0dbc7e;
+    padding: 5px;
+    text-align: center;
+}
+
+.output > input {
+    width: 90%;
+    font-size: 20px;
+    padding: 5px;
+    text-align: right;
+}
+
+.buttonset > div > button {
+    width: 20%;
+}
